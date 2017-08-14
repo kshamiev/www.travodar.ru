@@ -1,0 +1,59 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.conf
+*.log
+
+# Project
+nginx.conf_good
+nginx.conf_ssl
+nginx.conf_ssl_good
+nginx.conf_super_good
+test.php
+config.php
+test
+config
+cache
+www/deploy
+www/upload
+www/exchange
+www/library
+www/phpzero
+www/zero
+www/engine
+www/doc
+www/application/document
+www/sitemap.xml
+
+# External dependences
+
+# IDE
+.git
+.project
+.settings
+.idea
+nbproject*
+
+# Folders
+_obj
+_test
+bin
+pkg
+run
+log
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
