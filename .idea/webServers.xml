@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="93c7a25a-e6e4-428d-88a9-19ed60ddfdf5" name="www.travodar.ru" url="http://travodar.ru/">
+        <fileTransfer host="shamiev.ru" port="21" password="dfccdfcddfcedfccdfcddfc2dfcddfd8dfdedfd3dfc2df9fdf9cdf9fdf9edfc2dfc0dfcddfcc" username="www.travodar.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
